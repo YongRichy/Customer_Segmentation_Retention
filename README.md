@@ -2,7 +2,7 @@
 ML Project: Customer segmentation, churn prediction, and CLV analysis on 10,000+ bank customers
 # Customer Segmentation and Retention Analysis
 ### Predicting Churn and Identifying At-Risk Customers 
-### in Retail Banking
+### In Retail Banking
 
 **Author:** Success Chukwuka  
 **Tools:** Python | Pandas | NumPy | Matplotlib | 
